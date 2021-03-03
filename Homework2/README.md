@@ -16,4 +16,4 @@ what combines all the different materials from zybooks and make it one.
 For the creation of the project the information is mainly from zybooks, with the help of tutorialspoint, w3shools and examples of how to implement 
 the varibales and functions. 
 
-For future reference start early
+For future reference start early in homeworks
