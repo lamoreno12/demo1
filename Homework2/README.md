@@ -14,4 +14,6 @@ while sometimes are tricky, they include the material and make people think what
 what combines all the different materials from zybooks and make it one.
 
 For the creation of the project the information is mainly from zybooks, with the help of tutorialspoint, w3shools and examples of how to implement 
-the varibales and functions.
+the varibales and functions. 
+
+For future reference start early
